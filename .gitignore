@@ -1,0 +1,7 @@
+.DS_Store
+HHLD-CHAT-APP/auth-backend/node_modules
+HHLD-CHAT-APP/backend/node_modules
+HHLD-CHAT-APP/frontend/hhld-chat-fe-2/.next
+HHLD-CHAT-APP/frontend/hhld-chat-fe-2/node_modules
+HHLD-CHAT-APP/frontend/hhld-chat-fe/.next
+HHLD-CHAT-APP/frontend/hhld-chat-fe/node_modules
