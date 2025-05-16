@@ -45,7 +45,7 @@ const ChatUsers = () => {
         <div >
         {
             users.map((user, index) => (
-                <div key={index} className='bg-slate-400 rounded-xl m-3 p-5'
+                <div key={index} className={`${chatReceiver == user.username ?  'bg-amber-200' : 'bg-gray-300' }  rounded-xl m-3 p-5` }
                 onClick={()=> setChatReceiver(user)}
                 >
 
