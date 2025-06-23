@@ -97,13 +97,13 @@ Sample payload to test in AWS Lambda console:
   "isBase64Encoded": false
 }
 
-📺 Adaptive Bitrate Streaming
+## 📺 Adaptive Bitrate Streaming
 master.m3u8
 ├── 480p.m3u8 → [ts chunks]
 ├── 720p.m3u8 → [ts chunks]
 └── 1080p.m3u8 → [ts chunks]
 
-🧭 Navigation Flow
+## 🧭 Navigation Flow
 Home Page → List of videos
 
 Sign In with Google → Auth using NextAuth
@@ -123,7 +123,7 @@ Watch Page → Client fetches pre-signed m3u8 URL → Streams via HLS
 Search Page → Queries OpenSearch via API Gateway → Displays results
 
 
-🌍 Deployment Notes
+## 🌍 Deployment Notes
 Hosted S3 buckets (with correct CORS for .ts and .m3u8)
 
 AWS CloudFront for CDN distribution (optional)
