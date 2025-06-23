@@ -96,7 +96,7 @@ Sample payload to test in AWS Lambda console:
   "body": null,
   "isBase64Encoded": false
 }
-
+```
 ## 📺 Adaptive Bitrate Streaming
 master.m3u8
 ├── 480p.m3u8 → [ts chunks]
