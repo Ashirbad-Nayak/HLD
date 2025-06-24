@@ -21,4 +21,10 @@ HHLD-Youtube/watch_service/node_modules
 HHLD-Youtube/watch_service/generated
 HHLD-Youtube/opensearch/lambda/node_modules
 HHLD-Youtube/opensearch/lambda/ca.pem
+HHLD-STOCK-BROKER/client/node_modules
+HHLD-STOCK-BROKER/client/.next
+HHLD-STOCK-BROKER/market_data_service/node_modules
+HHLD-STOCK-BROKER/market_data_service/complete.csv
+HHLD-STOCK-BROKER/order_mgr_service/node_modules
+HHLD-STOCK-BROKER/watchlist_service/node_modules
 
